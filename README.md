@@ -1,2 +1,2 @@
-# simple
-example repo
+# Simple
+Example repo
